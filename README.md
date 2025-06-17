@@ -16,10 +16,6 @@
 - Random Forest Regressor
 
 ## Contributor:
-- Poorva Pohekar
-- Archita Kulkarni
-- Sakshi bhoyar
-- Professor Parul dubey
-
+- Purva Baghel
 ## License
 This project is open-source and available under the MIT License.
